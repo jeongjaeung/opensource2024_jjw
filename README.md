@@ -25,7 +25,6 @@
 
 ---
 
-### 🛠️ Tools I Use
-- **코딩 언어**: Python, C++
-- **프레임워크**: ROS2 (Robot Operating System)
-- **버전 관리**: Git, GitHub
+### 👫 팀원
+> **김희선**, **정재웅**, **홍봉훈**
+
