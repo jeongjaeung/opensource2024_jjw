@@ -9,6 +9,7 @@ if [ -z "$count" ]; then
     while true
     do
         echo "hello world"
+        sleep 1  # 1초 간격으로 출력
     done
 else
     # 숫자가 입력된 경우 해당 횟수만큼 출력
@@ -16,6 +17,7 @@ else
     while [ $i -lt $count ]
     do
         echo "hello world"
+        sleep 1  # 1초 간격으로 출력
         i=$((i + 1))
     done
 fi
